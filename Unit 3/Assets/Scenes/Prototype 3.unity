@@ -328,6 +328,9 @@ MonoBehaviour:
   dirtParticle: {fileID: 1987583977}
   jumpSound: {fileID: 8300000, guid: 0f7d0b7c3397f4dac91f20e8a77d2d57, type: 3}
   crashSound: {fileID: 8300000, guid: 4bcde6de2166e41e284ec46d8a01fb90, type: 3}
+  doubleJumpUsed: 0
+  doubleJumpForce: 496.95
+  doubleSpeed: 0
 --- !u!4 &345348001 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: c14bb5ce28dbb7442a2f79d8b6a061ce, type: 3}
