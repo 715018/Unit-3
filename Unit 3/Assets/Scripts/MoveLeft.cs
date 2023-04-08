@@ -1,3 +1,7 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
 public class MoveLeft : MonoBehaviour
 {
     private float speed = 30;
@@ -32,5 +36,6 @@ public class MoveLeft : MonoBehaviour
             Destroy(gameObject);
         }
     }
+}
         
     
